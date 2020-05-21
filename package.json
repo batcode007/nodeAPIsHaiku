@@ -1,0 +1,15 @@
+{
+  "name": "haikujam",
+  "version": "1.0.0",
+  "description": "assignment tasks",
+  "main": "db.js",
+  "dependencies": {
+    "mongodb": "^3.5.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naman",
+  "license": "ISC"
+}
